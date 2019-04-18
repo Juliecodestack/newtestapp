@@ -2,6 +2,6 @@ red apple;
 pear;
 watermelon;
 milk;
-wheat bread;
+white bread;
 yogurt;
 noodle;
