@@ -3,3 +3,4 @@ pear;
 watermelon;
 milk;
 bread;
+yogurt;
