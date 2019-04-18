@@ -1,4 +1,4 @@
-red apple;
+red apples;
 pear;
 watermelon;
 milk;
