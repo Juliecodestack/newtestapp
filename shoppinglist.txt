@@ -5,3 +5,4 @@ milk;
 white bread;
 yogurt;
 noodle;
+bananas, oranges,
