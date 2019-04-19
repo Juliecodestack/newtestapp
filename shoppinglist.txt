@@ -3,6 +3,6 @@ pear;
 watermelon;
 milk;
 white bread;
-yogurt;
+strawberry yogurt;
 noodle;
 bananas, oranges,
