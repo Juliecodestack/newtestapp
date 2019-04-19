@@ -6,3 +6,4 @@ white bread;
 strawberry yogurt;
 noodle;
 bananas, oranges,
+chocolate
